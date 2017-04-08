@@ -6,7 +6,7 @@ Usage:
 
 ```python auth.py
 Add Token model
-``
+```
 
 ```python example.py
 from api.restframework.views import APIView
